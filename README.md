@@ -1,4 +1,4 @@
-# 🛡️ Sistema de Monitoramento e Controle de EPI com Visão Computacional
+# 🛡️ Sistema de Monitoramento e Controle de EPI com Visão Computacional 😷
 
 Este projeto consiste no desenvolvimento de um MVP para um Sistema Inteligente de Visão Computacional desenvolvido para monitorar o uso correto de Equipamentos de Proteção Individual (EPIs) em um ambiente fabril. O sistema controla o acesso a ambientes restritos, registra logs de ocorrências e envia alertas automáticos em caso de infrações.
 
@@ -154,7 +154,7 @@ Para rodar este projeto em sua máquina local, siga os passos abaixo.
 
 - Arquivo do modelo treinado e labels.txt (keras_model.h5) na raiz do projeto.
 
-1. Clonar o Repositório: Bash 'git clone https://github.com/seu-usuario/nome-do-repositorio.git' -> 'cd nome-do-repositorio'
+1. Clonar o Repositório: Bash 'git clone [https://github.com/BarbJS/Sistema-de-Seguranca-Operacional-de-EPIs-com-Visao-Computacional]' -> 'cd 'Sistema-de-Seguranca-Operacional-de-EPIs-com-Visao-Computacional''
    
 2. Criar e Ativar um Ambiente Virtual
 
