@@ -173,7 +173,7 @@ Abra o arquivo 'monitor_epi.py' e edite as variáveis de e-mail com suas credenc
 
 'EMAIL_SENDER = "seu_email@gmail.com"
 EMAIL_PASSWORD = "sua_senha_de_app"
-EMAIL_RECEIVER = "email_destino@gmail.com"'
+EMAIL_RECEIVER = "email_destino_supervisor@gmail.com"'
 
 5. Executar
 
