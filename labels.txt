@@ -1,0 +1,6 @@
+0 Com EPIs adequados (touca + mascara)
+1 Com EPIs inadequados
+2 Com EPI touca 
+3 Com EPI mascara
+4 Sem EPIs
+5 Fundo
